@@ -2,6 +2,7 @@
  * Clase principal.
  * Versión 1.0
  * Autor: Profesor Entorno Desarrollo
+ * Alumna: Daniela Valentina Galeote Calderón
  */
 public class Game {
 
